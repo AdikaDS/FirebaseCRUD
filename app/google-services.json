@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642528550722",
+    "project_id": "pertemuan-firebase-crud-3243c",
+    "storage_bucket": "pertemuan-firebase-crud-3243c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642528550722:android:b15fdf125e02ef6d4532db",
+        "android_client_info": {
+          "package_name": "com.example.pertemuanfirebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642528550722-b2b988bcms5h4e01nu18h75qj6s5fse2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6bsyUzaHJqcaz4AFI1EB0NkA6eqoNOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642528550722-b2b988bcms5h4e01nu18h75qj6s5fse2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
